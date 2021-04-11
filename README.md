@@ -9,7 +9,7 @@ This provider will upload to the space using the AWS S3 API.
 - **endpoint** : Base URL of the space (e.g. 'fra.digitaloceanspaces.com')
 - **space** : Name of the space in the Digital Ocean panel.
 - **directory** : Name of the sub-directory you want to store your files in. (Optionnal - e.g. '/example')
-- **cdn** : CDN Endpoint - URL of the cdn of the space (Optionnal - e.g. 'https://cdn.example.com')
+- **cdn** : CDN Endpoint - URL of the cdn of the space (Optionnal - e.g. 'cdn.example.com')
 
 ## How to use
 
